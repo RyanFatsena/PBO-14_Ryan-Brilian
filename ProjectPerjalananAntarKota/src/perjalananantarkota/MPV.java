@@ -11,7 +11,7 @@ package perjalananantarkota;
  */
 public class MPV extends Mobil {
     
-    // this is atribute range and speed
+    // this is attribute range and speed
     public double range, speed;
     
     // this method to calculate the fuel
